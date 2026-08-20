@@ -1,0 +1,15 @@
+{
+  "item.caffeineedition.raw_coffee_bean": "Raw Coffee Bean",
+  "item.caffeineedition.roasted_coffee_bean": "Roasted Coffee Bean",
+  "item.caffeineedition.ground_coffee_bean": "Ground Coffee Bean",
+
+  "item.caffeineedition.empty_coffee_mug": "Coffee Mug",
+  "item.caffeineedition.full_coffee_mug": "Coffee Mug Full of Coffee",
+  "item.caffeineedition.empty_thermos": "Thermos",
+  "item.caffeineedition.full_thermos": "Thermos Full of Coffee",
+
+  "block.caffeineedition.coffee_block": "Block of Ground Coffee Beans",
+
+  "creativemodetab.caffeineedition.coffee_items": "Coffee Items",
+  "creativemodetab.caffeineedition.coffee_blocks": "Coffee Block"
+}
